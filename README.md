@@ -11,9 +11,9 @@ MobileNetV2 with Transfer Learning. Test Accuracy: 85%.
 
 -----------------------------------------
 ## Team
-- Remas Saleh Ghandorah
-- Khlood Hamed Almasoudi
-- Shatha Ali Alhumaidi
 - AlJood Yaser Alsaleh
+- Khlood Hamed Almasoudi
 - Layan Ali Alharbi
+- Remas Saleh Ghandorah
+- Shatha Ali Alhumaidi
 
